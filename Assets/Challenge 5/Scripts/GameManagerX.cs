@@ -81,6 +81,7 @@ public class GameManagerX : MonoBehaviour
 
         Vector3 spawnPosition = new Vector3(spawnPosX, spawnPosY, 0);
         return spawnPosition;
+        Debug.Log("Dap da");
 
     }
 
